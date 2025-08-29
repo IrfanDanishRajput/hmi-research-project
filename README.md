@@ -32,7 +32,7 @@ We investigate how **pragmatic and hedonic qualities** (measured via *AttrakDiff
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/hmi-research-paper.git
+git clone https://github.com/IrfanDanishRajput/hmi-research-project
 cd hmi-research-paper
 ```
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-Open **Updated HMI_Pro.ipynb** and run all cells to reproduce the analysis.
+Open **analysis.ipynb** and run all cells to reproduce the analysis.
 
 > **Note:** The notebook includes statistical analysis (correlations, mixed-effects models, visualizations). Ensure you have all required data files in the correct directories before running.
 
